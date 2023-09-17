@@ -1,0 +1,7 @@
+C:\Users\90542\Desktop\Alper Şirin\UcretHesaplamasi\UcretHesaplamasi\bin\Debug\UcretHesaplamasi.exe.config
+C:\Users\90542\Desktop\Alper Şirin\UcretHesaplamasi\UcretHesaplamasi\bin\Debug\UcretHesaplamasi.exe
+C:\Users\90542\Desktop\Alper Şirin\UcretHesaplamasi\UcretHesaplamasi\bin\Debug\UcretHesaplamasi.pdb
+C:\Users\90542\Desktop\Alper Şirin\UcretHesaplamasi\UcretHesaplamasi\obj\Debug\UcretHesaplamasi.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Alper Şirin\UcretHesaplamasi\UcretHesaplamasi\obj\Debug\UcretHesaplamasi.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Alper Şirin\UcretHesaplamasi\UcretHesaplamasi\obj\Debug\UcretHesaplamasi.exe
+C:\Users\90542\Desktop\Alper Şirin\UcretHesaplamasi\UcretHesaplamasi\obj\Debug\UcretHesaplamasi.pdb
